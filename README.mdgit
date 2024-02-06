@@ -1,0 +1,1 @@
+# the-swiftui-learning initgit add . git commit -m first commitgit branch -M maingit remote add origin https://github.com/danmigwi24/the-swiftui-learning.gitgit push -u origin main
