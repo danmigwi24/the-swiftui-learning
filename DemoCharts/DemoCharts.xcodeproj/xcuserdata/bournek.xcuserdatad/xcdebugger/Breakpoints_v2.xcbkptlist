@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4FC7323C-6EDF-4E63-BFC2-5048D9E67984"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9F32BD2-8C99-4FDF-97E8-B97886553A5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "addDailyData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCF638FB-884B-4068-829E-5EE9A4B88D5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "addDailyData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCF638FB-884B-4068-829E-5EE9A4B88D5E - 216df4d564184758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DemoCharts.GetDailySummariesDatum) -&gt; Swift.Bool in DemoCharts.ChartView.addDailyData() -&gt; DGCharts.BarChartData"
+                  moduleName = "DemoCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Storage%20Disk/Projects/X-Code/DemoCharts/DemoCharts/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "CCF638FB-884B-4068-829E-5EE9A4B88D5E - 216df4d564184758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DemoCharts.GetDailySummariesDatum) -&gt; Swift.Bool in DemoCharts.ChartView.addDailyData() -&gt; DGCharts.BarChartData"
+                  moduleName = "DemoCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Storage%20Disk/Projects/X-Code/DemoCharts/DemoCharts/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "CCF638FB-884B-4068-829E-5EE9A4B88D5E - 216df4d564184758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DemoCharts.GetDailySummariesDatum) -&gt; Swift.Bool in DemoCharts.ChartView.addDailyData() -&gt; DGCharts.BarChartData"
+                  moduleName = "DemoCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Storage%20Disk/Projects/X-Code/DemoCharts/DemoCharts/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCC65BBD-E79A-45C7-B071-8F46F455C3A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "stringForValue(_:entry:dataSetIndex:viewPortHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCC65BBD-E79A-45C7-B071-8F46F455C3A0 - 21c46527d0c22552"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoCharts.ChartAxisFormatter.stringForValue(_: Swift.Double, entry: DGCharts.ChartDataEntry, dataSetIndex: Swift.Int, viewPortHandler: Swift.Optional&lt;DGCharts.ViewPortHandler&gt;) -&gt; Swift.String"
+                  moduleName = "DemoCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Storage%20Disk/Projects/X-Code/DemoCharts/DemoCharts/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "CCC65BBD-E79A-45C7-B071-8F46F455C3A0 - 21c46527d0c22552"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoCharts.ChartAxisFormatter.stringForValue(_: Swift.Double, entry: DGCharts.ChartDataEntry, dataSetIndex: Swift.Int, viewPortHandler: Swift.Optional&lt;DGCharts.ViewPortHandler&gt;) -&gt; Swift.String"
+                  moduleName = "DemoCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Storage%20Disk/Projects/X-Code/DemoCharts/DemoCharts/ChartView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "182">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35687A62-DB6B-4E17-A6D8-18BD96CCB156"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "324"
+            endingLineNumber = "324"
+            landmarkName = "stringForValue(_:axis:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6150BF3-1B1A-41FF-9421-79BBB75E2481"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "addWeeklyData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D00DA57-213C-4813-B194-EBFBB46B0973"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "addMonthlyData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92D06B21-D55A-48DB-B6EB-A29B3E1FE067"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "addMonthlyData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCCE05FC-3A98-44B0-8FBB-C9F4D7DACB4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoCharts/ChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "stringForValue(_:axis:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
