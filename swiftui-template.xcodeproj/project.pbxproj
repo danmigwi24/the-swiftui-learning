@@ -7,15 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9B8FE9D32B5660C300EDBA89 /* swiftui_templateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8FE9D22B5660C300EDBA89 /* swiftui_templateApp.swift */; };
+		9B06EFF32B6B7C4300A6AE85 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06EFEF2B6B7C4300A6AE85 /* Menu.swift */; };
+		9B06EFF42B6B7C4300A6AE85 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 9B06EFF02B6B7C4300A6AE85 /* menu.json */; };
+		9B06EFF62B6B7C4300A6AE85 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06EFF22B6B7C4300A6AE85 /* Order.swift */; };
+		9B06EFF82B6B86C500A6AE85 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06EFF72B6B86C500A6AE85 /* ItemRow.swift */; };
+		9B06EFFA2B6B8BB900A6AE85 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06EFF92B6B8BB900A6AE85 /* ItemDetail.swift */; };
+		9B06EFFC2B6BC4A100A6AE85 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06EFFB2B6BC4A100A6AE85 /* OrderView.swift */; };
+		9B06EFFE2B6BCE3600A6AE85 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06EFFD2B6BCE3600A6AE85 /* MainView.swift */; };
+		9B06F0082B6BDD1700A6AE85 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06F0072B6BDD1700A6AE85 /* Helper.swift */; };
+		9B06F00A2B6BDD8300A6AE85 /* SwiftUIViewBuilderScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06F0092B6BDD8300A6AE85 /* SwiftUIViewBuilderScreen.swift */; };
+		9B06F00C2B6CDC8B00A6AE85 /* MKMapSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06F00B2B6CDC8B00A6AE85 /* MKMapSwiftUIView.swift */; };
+		9B06F00F2B6CF4CF00A6AE85 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06F00E2B6CF4CF00A6AE85 /* LocationManager.swift */; };
+		9B5C45122B70E476005102DA /* DependecyInjectionBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5C45112B70E476005102DA /* DependecyInjectionBootCamp.swift */; };
+		9B8FE9D32B5660C300EDBA89 /* SwiftuiTemplateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8FE9D22B5660C300EDBA89 /* SwiftuiTemplateApp.swift */; };
 		9B8FE9D52B5660C300EDBA89 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8FE9D42B5660C300EDBA89 /* ContentView.swift */; };
 		9B8FE9D72B5660C500EDBA89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B8FE9D62B5660C500EDBA89 /* Assets.xcassets */; };
 		9B8FE9DA2B5660C500EDBA89 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B8FE9D92B5660C500EDBA89 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B06EFEF2B6B7C4300A6AE85 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		9B06EFF02B6B7C4300A6AE85 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
+		9B06EFF22B6B7C4300A6AE85 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		9B06EFF72B6B86C500A6AE85 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		9B06EFF92B6B8BB900A6AE85 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		9B06EFFB2B6BC4A100A6AE85 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		9B06EFFD2B6BCE3600A6AE85 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		9B06F0072B6BDD1700A6AE85 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		9B06F0092B6BDD8300A6AE85 /* SwiftUIViewBuilderScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewBuilderScreen.swift; sourceTree = "<group>"; };
+		9B06F00B2B6CDC8B00A6AE85 /* MKMapSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MKMapSwiftUIView.swift; sourceTree = "<group>"; };
+		9B06F00E2B6CF4CF00A6AE85 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		9B5C45112B70E476005102DA /* DependecyInjectionBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependecyInjectionBootCamp.swift; sourceTree = "<group>"; };
 		9B8FE9CF2B5660C300EDBA89 /* swiftui-template.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-template.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B8FE9D22B5660C300EDBA89 /* swiftui_templateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_templateApp.swift; sourceTree = "<group>"; };
+		9B8FE9D22B5660C300EDBA89 /* SwiftuiTemplateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiTemplateApp.swift; sourceTree = "<group>"; };
 		9B8FE9D42B5660C300EDBA89 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9B8FE9D62B5660C500EDBA89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B8FE9D92B5660C500EDBA89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -32,6 +56,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9B06EFFF2B6BDB1100A6AE85 /* ordermenu */ = {
+			isa = PBXGroup;
+			children = (
+				9B06F0072B6BDD1700A6AE85 /* Helper.swift */,
+				9B8FE9D42B5660C300EDBA89 /* ContentView.swift */,
+				9B06EFF02B6B7C4300A6AE85 /* menu.json */,
+				9B06EFEF2B6B7C4300A6AE85 /* Menu.swift */,
+				9B06EFF22B6B7C4300A6AE85 /* Order.swift */,
+				9B06EFF72B6B86C500A6AE85 /* ItemRow.swift */,
+				9B06EFF92B6B8BB900A6AE85 /* ItemDetail.swift */,
+				9B06EFFB2B6BC4A100A6AE85 /* OrderView.swift */,
+				9B06EFFD2B6BCE3600A6AE85 /* MainView.swift */,
+			);
+			path = ordermenu;
+			sourceTree = "<group>";
+		};
+		9B06F00D2B6CF4A000A6AE85 /* mapbootcamp */ = {
+			isa = PBXGroup;
+			children = (
+				9B06F00B2B6CDC8B00A6AE85 /* MKMapSwiftUIView.swift */,
+				9B06F00E2B6CF4CF00A6AE85 /* LocationManager.swift */,
+			);
+			path = mapbootcamp;
+			sourceTree = "<group>";
+		};
+		9B5C45102B70E443005102DA /* dependecyinjection */ = {
+			isa = PBXGroup;
+			children = (
+				9B5C45112B70E476005102DA /* DependecyInjectionBootCamp.swift */,
+			);
+			path = dependecyinjection;
+			sourceTree = "<group>";
+		};
 		9B8FE9C62B5660C300EDBA89 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +108,11 @@
 		9B8FE9D12B5660C300EDBA89 /* swiftui-template */ = {
 			isa = PBXGroup;
 			children = (
-				9B8FE9D22B5660C300EDBA89 /* swiftui_templateApp.swift */,
-				9B8FE9D42B5660C300EDBA89 /* ContentView.swift */,
+				9B5C45102B70E443005102DA /* dependecyinjection */,
+				9B06F00D2B6CF4A000A6AE85 /* mapbootcamp */,
+				9B06EFFF2B6BDB1100A6AE85 /* ordermenu */,
+				9B8FE9D22B5660C300EDBA89 /* SwiftuiTemplateApp.swift */,
+				9B06F0092B6BDD8300A6AE85 /* SwiftUIViewBuilderScreen.swift */,
 				9B8FE9D62B5660C500EDBA89 /* Assets.xcassets */,
 				9B8FE9D82B5660C500EDBA89 /* Preview Content */,
 			);
@@ -125,6 +185,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B06EFF42B6B7C4300A6AE85 /* menu.json in Resources */,
 				9B8FE9DA2B5660C500EDBA89 /* Preview Assets.xcassets in Resources */,
 				9B8FE9D72B5660C500EDBA89 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +198,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B06EFF62B6B7C4300A6AE85 /* Order.swift in Sources */,
+				9B06EFFE2B6BCE3600A6AE85 /* MainView.swift in Sources */,
+				9B06F00A2B6BDD8300A6AE85 /* SwiftUIViewBuilderScreen.swift in Sources */,
+				9B06EFFC2B6BC4A100A6AE85 /* OrderView.swift in Sources */,
 				9B8FE9D52B5660C300EDBA89 /* ContentView.swift in Sources */,
-				9B8FE9D32B5660C300EDBA89 /* swiftui_templateApp.swift in Sources */,
+				9B06F00C2B6CDC8B00A6AE85 /* MKMapSwiftUIView.swift in Sources */,
+				9B8FE9D32B5660C300EDBA89 /* SwiftuiTemplateApp.swift in Sources */,
+				9B06F0082B6BDD1700A6AE85 /* Helper.swift in Sources */,
+				9B06F00F2B6CF4CF00A6AE85 /* LocationManager.swift in Sources */,
+				9B06EFF82B6B86C500A6AE85 /* ItemRow.swift in Sources */,
+				9B06EFFA2B6B8BB900A6AE85 /* ItemDetail.swift in Sources */,
+				9B06EFF32B6B7C4300A6AE85 /* Menu.swift in Sources */,
+				9B5C45122B70E476005102DA /* DependecyInjectionBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,11 +342,13 @@
 				DEVELOPMENT_TEAM = 3RF2AURHF7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "NearMe App requires access to your location";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +373,13 @@
 				DEVELOPMENT_TEAM = 3RF2AURHF7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "NearMe App requires access to your location";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
