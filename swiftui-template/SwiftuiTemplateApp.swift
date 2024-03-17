@@ -15,7 +15,7 @@ struct SwiftuiTemplateApp: App {
         WindowGroup {
             //MainView().environmentObject(order)
             //SwiftUIViewBuilderScreen()
-            //MKMapSwiftUIView()
+            MKMapSwiftUIView()
             //DependecyInjectionBootCamp()
         }
     }
